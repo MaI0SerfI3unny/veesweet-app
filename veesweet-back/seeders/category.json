@@ -1,0 +1,102 @@
+[
+    { 
+        "title": "Блузки", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/bluzka.jpeg" 
+    },
+    { 
+        "title": "Джинси", 
+        "typeCategoryId": 2, 
+        "photo": "mediafile/template/djins.jpg" 
+    },
+    { 
+        "title": "Жилети", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/zhilet.jpg" 
+    },
+    { 
+        "title": "Кардигани", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/kardigan.jpg" 
+    },
+    { 
+        "title": "Комбінезони", 
+        "typeCategoryId": 3, 
+        "photo": "mediafile/template/kombinezon.jpg" 
+    },
+    { 
+        "title": "Костюми", 
+        "typeCategoryId": 3, 
+        "photo": "mediafile/template/kostum.jpg" 
+    },
+    { 
+        "title": "Лосини", 
+        "typeCategoryId": 2, 
+        "photo": "mediafile/template/leggings.jpg" 
+    },
+    { 
+        "title": "Майки", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/maika.jpg" 
+    },
+    { 
+        "title": "Піджаки", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/pidjak.jpg" 
+    },
+    { 
+        "title": "Поло", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/polo.jpg" 
+    },
+    { 
+        "title": "Сарафани", 
+        "typeCategoryId": 3, 
+        "photo": "mediafile/template/sarafan.jpg" 
+    },
+    { 
+        "title": "Сорочки", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/sorochka.jpg" 
+    },
+    { 
+        "title": "Спідниці", 
+        "typeCategoryId": 2,
+        "photo": "mediafile/template/ubka.jpeg" 
+    },
+    { 
+        "title": "Сукні", 
+        "typeCategoryId": 3, 
+        "photo": "mediafile/template/sukna.jpg" 
+    },
+    { 
+        "title": "Топи", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/topik.jpg" 
+    },
+    { 
+        "title": "Футболки", 
+        "typeCategoryId": 1, 
+        "photo": "mediafile/template/futbolka.jpg" 
+    },
+    { 
+        "title": "Шорти", 
+        "typeCategoryId": 2, 
+        "photo": "mediafile/template/shorti.jpg" 
+    },
+    { 
+        "title": "Штани", 
+        "typeCategoryId": 2, 
+        "photo": "mediafile/template/shtani.jpg" 
+    },
+    { 
+        "title": "Пальто", 
+        "typeCategoryId": 3, 
+        "photo": "mediafile/template/palto.jpeg" 
+    },
+    { 
+        "title": "Жіноча білизна", 
+        "typeCategoryId": 2, 
+        "photo": "mediafile/template/bilizna.jpeg" 
+    }
+]

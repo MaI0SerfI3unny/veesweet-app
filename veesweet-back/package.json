@@ -1,0 +1,38 @@
+{
+  "name": "veesweet-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env node index",
+    "dev": "cross-env nodemon index",
+    "migrate": "cross-env script=migrate node scripts",
+    "seed": "cross-env script=seed node scripts",
+    "load": "cross-env script=loadvikamoda node scripts"
+  },
+  "author": "MaI0SerfI3unny",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-promise-router": "^4.1.1",
+    "express-session": "^1.17.3",
+    "fast-xml-parser": "^4.2.7",
+    "fs": "^0.0.1-security",
+    "module-alias": "^2.2.2",
+    "mysql2": "^3.2.3",
+    "nodemon": "^2.0.22",
+    "sequelize": "^6.31.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2",
+    "uuid": "^9.0.0",
+    "yamljs": "^0.3.0"
+  },
+  "_moduleAliases": {
+    "@": "."
+  }
+}

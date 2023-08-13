@@ -1,0 +1,33 @@
+{
+  "name": "veesweet-next-js",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^4.32.6",
+    "@tanstack/react-query-devtools": "^4.32.6",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "module-alias": "^2.2.2",
+    "next": "13.2.4",
+    "next-i18next": "^13.2.2",
+    "node-sass": "^7.0.3",
+    "path": "^0.12.7",
+    "react": "18.2.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "18.2.0",
+    "react-toastify": "^9.1.3",
+    "rsuite": "^5.31.0",
+    "sass": "^1.60.0",
+    "swiper": "^9.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4"
+  }
+}
