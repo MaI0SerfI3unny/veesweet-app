@@ -1,6 +1,6 @@
 # VeeSweet Magazine Clothes for Woman
 
-![ScreenIntro](https://github.com/MaI0SerfI3unny/veesweet-app/veesweet.png)
+![ScreenIntro](https://github.com/MaI0SerfI3unny/veesweet-app/blob/main/veesweet.png)
 
 # Installation
 
