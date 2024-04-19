@@ -8,7 +8,7 @@
 git clone https://github.com/MaI0SerfI3unny/veesweet-app.git
 ```
 
-# Start test app with import backup (needed two window consoles)
+# Start test app with import backup 'veesweet_db.sql' (needed two window consoles)
 
 # Backend
 ```
